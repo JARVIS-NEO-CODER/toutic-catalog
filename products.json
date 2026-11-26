@@ -1043,5 +1043,44 @@
   "fourn": "Amazon",
   "lien": "https://www.amazon.com/YZXODN-Pack-Stretchy-Strings-Fidget/dp/B0D5M4BF52/ref=sr_1_5?sr=8-5",
   "img": "https://m.media-amazon.com/images/I/9117sHIDSWL._AC_SX679_.jpg"
+ },
+ {
+  "id": "micro-gaming-rgb-maono",
+  "name": "Micro gaming Maono GamerWave : USB, LED RGB, bouton mute",
+  "type": "physical",
+  "cat": "Gaming",
+  "price": "48,75 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Micro condensateur USB pour streams et gaming : éclairage RGB, bouton mute physique, compat PC/console. Marque Maono, 112 avis vérifiés, 4,7/5.",
+  "fourn": "Maono",
+  "lien": "https://www.maono.com/products/dgm20s-condenser-usb-gaming-rgb-microphone",
+  "img": "https://cdn.shopify.com/s/files/1/0025/5934/4686/products/MaonoDGM20SwhitegamerwaveUSBmicrophone.png",
+  "priceUsd": "52,99 $"
+ },
+ {
+  "id": "planner-notion-etudiant",
+  "name": "Planner Notion étudiant : cours, devoirs et révisions",
+  "type": "digital",
+  "cat": "Digital & Créa",
+  "price": "7,36 €",
+  "status": "Téléchargement immédiat",
+  "desc": "Template Notion esthétique pour organiser tes cours, tes devoirs et tes révisions en un seul tableau de bord. Livraison numérique immédiate. 28 avis vérifiés, 4,9/5.",
+  "fourn": "The Balanced Plan",
+  "lien": "https://thebalancedplan.com/products/notion-academic-planner",
+  "img": "https://cdn.shopify.com/s/files/1/0791/9989/5723/files/Screenshot2026-08-20at4.49.46PM.png",
+  "priceUsd": "8,00 $"
+ },
+ {
+  "id": "lampe-meduses-led",
+  "name": "Lampe méduses LED : aquarium lumineux 7 couleurs",
+  "type": "physical",
+  "cat": "Déco",
+  "price": "23,91 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Un aquarium lumineux avec méduses qui nagent en réalisme, 7 couleurs au choix, effet relaxant garanti sur un bureau ou une étagère. 30 avis vérifiés, 4,9/5.",
+  "fourn": "Zoolase",
+  "lien": "https://zoolase.com/products/led-jellyfish-lava-lamp-aquarium-for-kids-adults-birthday-gifts-for-kids-perfect-gift-for-aquarium-lovers",
+  "img": "https://cdn.shopify.com/s/files/1/0506/5893/4942/files/55_1eaeca45-d7fa-4c42-bd04-6f14f415f622.png",
+  "priceUsd": "25,99 $"
  }
 ]
