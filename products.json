@@ -92,17 +92,18 @@
   "priceUsd": "22,99 $"
  },
  {
-  "id": "station-charge-3en1",
-  "name": "Station de charge magnétique pliable 3-en-1",
+  "id": "station-recharge-3-en-1",
+  "name": "Station de recharge 3-en-1 (téléphone, montre, écouteurs)",
   "type": "physical",
   "cat": "Tech",
-  "price": "36,99 €",
+  "price": "25,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Charge téléphone, écouteurs et montre en même temps sur une base qui se replie en carré de poche.",
-  "fourn": "focoor",
-  "lien": "https://focoor.com/products/foldable-magnetic-wireless-charging-stand-1",
-  "img": "https://cdn.shopify.com/s/files/1/0805/0550/4031/files/spp_shopify20260815143719_4efae084416d17497cfcb013b6df635c_b367f513-3e26-463c-a0f3-0bea39848515.jpg",
-  "priceUsd": "24,99 $"
+  "desc": "Station de recharge 3-en-1 pliable 15 W pour téléphone, montre et écouteurs (compatible Samsung et Qi). Recharge tout en même temps, avec câble intégré, et se glisse dans un sac.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256809641355085.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/S2b4576c45ded45e69c73563c7b4835c5E.jpg",
+  "priceUsd": "17,67 $",
+  "pop": 0
  },
  {
   "id": "flexistand-plate",
@@ -327,17 +328,18 @@
   "priceUsd": "5,50 $"
  },
  {
-  "id": "led-ecran-gaming-sync",
-  "name": "Bande LED rétroéclairage d'écran gaming avec sync",
+  "id": "bande-led-ecran-sync",
+  "name": "Bande LED réactive d'écran RGB pour PC gaming",
   "type": "physical",
   "cat": "Gaming",
-  "price": "175,99 €",
+  "price": "23,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Se colle derrière ton écran (24 pouces) et synchronise les couleurs avec l'image du jeu en temps réel. 97 avis.",
-  "fourn": "covers4phones",
-  "lien": "https://covers4phones.com/products/rgb-game-ambient-sync-led-light-strip-computer-monitor-display-backlight-diy-color-pickup-light-smart-gaming-room-decor",
-  "img": "https://cdn.shopify.com/s/files/1/0843/5000/9652/files/S46c2d6bf6cf443419d77a8f6e5118729e.webp",
-  "priceUsd": "119,83 $"
+  "desc": "Bande LED RGB qui colle derrière l'écran et suit les couleurs du jeu en temps réel : immersion totale, déco gaming virale, compatible PC et consoles.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256803563935896.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/S1898ffdb132641e3a8f32d3f4625422f0.jpg",
+  "priceUsd": "16,31 $",
+  "pop": 0
  },
  {
   "id": "neon-rope-20m",
@@ -383,13 +385,13 @@
   "name": "Tube lumineux néon RGB 90 cm",
   "type": "physical",
   "cat": "Gaming",
-  "price": "67,99 €",
+  "price": "74,99 €",
   "status": "Expédié par le fournisseur",
   "desc": "Un tube RGB de 90 cm à poser debout ou coucher, effet néon dans un coin du setup.",
   "fourn": "EssentialPhoto & Video",
   "lien": "https://www.essentialphoto.co.uk/products/rainbow-series-360-degree-rgb-led-light-tube",
   "img": "https://cdn.shopify.com/s/files/1/0628/6943/8707/products/C-130302-RGB-90.jpg",
-  "priceUsd": "46,00 $"
+  "priceUsd": "50,99 $"
  },
  {
   "id": "neon-mural-gamer",
