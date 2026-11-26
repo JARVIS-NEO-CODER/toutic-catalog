@@ -976,17 +976,18 @@
   "priceUsd": "4,99 $"
  },
  {
-  "id": "porte-cles-stanley-quencher",
-  "name": "Porte-clés Stanley Quencher",
+  "id": "porte-cles-pom-pom-chat-kawaii",
+  "name": "Porte-clés pom-pom chat kawaii : peluche pendentif pour sac",
   "type": "physical",
   "cat": "Mode",
-  "price": "17,99 €",
+  "price": "20,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Porte-clés officiel en forme de gourde Quencher, finition à carreaux rouges, l'accessoire de la gourde culte. Noté 5/5.",
-  "fourn": "Stanley 1913",
-  "lien": "https://www.stanley1913.com/products/the-quencher-key-chain",
-  "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-MiniQuencherOrnament-NoCapacity-RougePlaid-FrontHanging.png",
-  "priceUsd": "10,00 $"
+  "desc": "Porte-clés pom-pom chat kawaii, boule de poils tout douce à accrocher au sac ou aux clés. Le genre de peluche porte-bonheur qui cartonne sur TikTok.",
+  "fourn": "Juneptune",
+  "lien": "https://juneptune.com/products/kawaii-sugarcat-fluffy-pom-pom-keychain",
+  "img": "https://cdn.shopify.com/s/files/1/0679/2370/6123/files/S1ce4d3e0888048b681433b40088b2f2dS.webp?v=1794650174",
+  "priceUsd": "14,27 $",
+  "pop": 2
  },
  {
   "id": "pack-templates-budget-finances",
@@ -1059,13 +1060,13 @@
   "name": "Micro gaming Maono GamerWave : USB, LED RGB, bouton mute",
   "type": "physical",
   "cat": "Gaming",
-  "price": "30,99 €",
+  "price": "76,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Micro condensateur USB pour streams et gaming : éclairage RGB, bouton mute physique, compat PC/console. Marque Maono, 112 avis vérifiés, 4,7/5.",
+  "desc": "Micro condensateur USB pour streams et gaming : éclairage RGB, bouton mute physique, compat PC/console. Marque Maono, 112 avis vérifiés, 4,7/5. Prix fournisseur vérifié au checkout le 26 nov : 48,29 €.",
   "fourn": "Maono",
   "lien": "https://www.maono.com/products/dgm20s-condenser-usb-gaming-rgb-microphone",
   "img": "https://cdn.shopify.com/s/files/1/0025/5934/4686/products/MaonoDGM20SwhitegamerwaveUSBmicrophone.png",
-  "priceUsd": "52,99 $"
+  "priceUsd": "52,35 $"
  },
  {
   "id": "planner-notion-etudiant",
