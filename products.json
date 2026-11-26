@@ -235,17 +235,18 @@
   "priceUsd": "9,51 $"
  },
  {
-  "id": "coque-popsocket-bundle",
-  "name": "Coque téléphone + popsocket portefeuille (bundle)",
+  "id": "coque-galaxy-a16-airbag",
+  "name": "Coque Galaxy A16 antichoc transparente",
   "type": "physical",
   "cat": "Tech",
-  "price": "65,99 €",
+  "price": "6,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Le bundle : une coque et son popsocket qui sert aussi de portefeuille à cartes.",
-  "fourn": "Saylor Reine Boutique",
-  "lien": "https://saylorreineboutique.com/products/phone-wallet-card-holder",
-  "img": "https://cdn.shopify.com/s/files/1/0581/6762/3864/files/IMG-1441.jpg",
-  "priceUsd": "45,00 $"
+  "desc": "Coque transparente à coussins d'air antichoc pour Samsung Galaxy A16 4G/5G : protection des coins, finition silicone douce, et elle reste totalement invisible.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256807894919692.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sb87d8948a8334660b2eca1f01752c596h.jpg",
+  "priceUsd": "4,75 $",
+  "pop": 0
  },
  {
   "id": "popsocket-rose",
@@ -443,17 +444,18 @@
   "priceUsd": "32,99 $"
  },
  {
-  "id": "vase-de-ceramique-de",
-  "name": "Vase dés en céramique pour fleurs séchées",
+  "id": "lanterne-solaire-jardin-ronde",
+  "name": "Lanterne solaire de jardin ronde LED",
   "type": "physical",
   "cat": "Déco",
-  "price": "61,99 €",
+  "price": "10,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Un vase en forme de dé, blanc, pour un bouquet de pampa ou de roses séchées.",
-  "fourn": "Varemio",
-  "lien": "https://varemio.com/products/ceramic-dice-vase-dried-flowers-modern-home-decor",
-  "img": "https://cdn.shopify.com/s/files/1/0696/1522/2895/files/441044af-2d8c-4352-98ae-775d1d2e5042_077fb3ae-a470-40f2-ad8d-a314559c90bb.jpg",
-  "priceUsd": "41,99 $"
+  "desc": "Lanterne solaire ronde à accrocher : chargée le jour, elle s'allume seule la nuit. Déco chaleureuse pour jardin, balcon ou terrasse, sans fil ni électricité.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256806748000442.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/Se9c4c8797cc245d7babbea71caf37bb1j.jpg",
+  "priceUsd": "7,47 $",
+  "pop": 0
  },
  {
   "id": "porte-cles-mural-photo",
@@ -469,17 +471,18 @@
   "priceUsd": "29,99 $"
  },
  {
-  "id": "fleur-encadree-or",
-  "name": "Fleur encadrée finition dorée",
+  "id": "lanterne-solaire-jardin-ip65",
+  "name": "Lanterne solaire de jardin IP65 avec télécommande",
   "type": "physical",
   "cat": "Déco",
-  "price": "23,99 €",
+  "price": "47,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Une fleur séchée encadrée dans un cadre doré rectangulaire.",
-  "fourn": "Madison's Niche",
-  "lien": "https://www.madisonsniche.com/products/framed-flower",
-  "img": "https://cdn.shopify.com/s/files/1/0365/4244/7661/files/FramedFlower3.png",
-  "priceUsd": "16,50 $"
+  "desc": "Grande lanterne solaire étanche IP65 avec 10 modes de luminosité, minuteur et télécommande. Éclairage d'ambiance haut de gamme pour terrasse et jardin, sans installation.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256812042911564.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/S7feffb45218c4282b48ab5eaa41ff28aB.png",
+  "priceUsd": "32,63 $",
+  "pop": 0
  },
  {
   "id": "enseigne-murale-3d",
@@ -495,17 +498,18 @@
   "priceUsd": "60,00 $"
  },
  {
-  "id": "coupelle-coeur-gres",
-  "name": "Coupelle cœur en grès à pois",
+  "id": "anneaux-magnetiques-fidget-3pcs",
+  "name": "Anneaux magnétiques anti-stress (3 pièces)",
   "type": "physical",
-  "cat": "Déco",
-  "price": "15,99 €",
+  "cat": "Tech",
+  "price": "1,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Petite coupelle en grès en forme de cœur, pour les clés ou les bijoux.",
-  "fourn": "Small Town Home & Decor",
-  "lien": "https://www.smalltownhomedecor.com/products/stoneware-heart-shaped-dish-w-dots",
-  "img": "https://cdn.shopify.com/s/files/1/1827/1353/files/Screenshot2026-01-26160542.png",
-  "priceUsd": "8,50 $"
+  "desc": "3 anneaux aimantés à faire tourner et lier entre eux : le fidget anti-stress addictif qui tient dans la poche. Idéal bureau, cours ou trajets.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256811506381361.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sfd0b35053b3543da98a8efaddd2bd8c69.jpg",
+  "priceUsd": "1,35 $",
+  "pop": 0
  },
  {
   "id": "lampe-nuage-3d",
@@ -521,17 +525,18 @@
   "priceUsd": "24,47 $"
  },
  {
-  "id": "neon-silicone-sync",
-  "name": "Bande néon LED silicone avec sync musique",
+  "id": "lampe-sunset-16-couleurs",
+  "name": "Lampe coucher de soleil 16 couleurs + télécommande",
   "type": "physical",
   "cat": "Déco",
-  "price": "71,99 €",
+  "price": "1,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "Néon souple en silicone, change de couleur et suit la musique, 5 m.",
-  "fourn": "Varemio",
-  "lien": "https://varemio.com/products/led-neon-rope-light-ip65-waterproof-rgb-app-control-music-sync",
-  "img": "https://cdn.shopify.com/s/files/1/0696/1522/2895/files/870bd36c-4e26-4c3b-8538-5757bef89c89_930c649f-59ca-44e4-b605-6d5d4ea01d8c.jpg",
-  "priceUsd": "48,99 $"
+  "desc": "La lampe sunset virale : projection 360°, 16 couleurs, 4 modes et télécommande. L'ambiance photo parfaite pour la chambre ou les stories.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256807366106199.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/S8bfda762c6224ababc9a6c2307a1933dB.png",
+  "priceUsd": "1,35 $",
+  "pop": 0
  },
  {
   "id": "casquette-y2k-lapin",
@@ -1034,16 +1039,18 @@
   "priceUsd": "4,00 $"
  },
  {
-  "id": "bracelet-a-tete-de-dinosaure",
-  "name": "Bracelet a tête de dinosaure",
+  "id": "chaine-cubaine-inox",
+  "name": "Chaîne cubaine en inox unisexe",
   "type": "physical",
-  "cat": "Déco",
-  "price": "18,99 €",
+  "cat": "Mode",
+  "price": "1,99 €",
   "status": "Expédié par le fournisseur",
-  "desc": "30 jouets anti-stress en forme d'animaux (3 modèles, couleurs vives, caoutchouc non toxique, ~20 cm), souples et élastiques. Ils apaisent le stress, favorisent la concentration, la motricité fine et l'attention — utiles notamment pour les enfants TDA ou autistes. Idéaux en cadeau (Noël, anniversaire, fête) ou comme récompense en classe. ⁠",
-  "fourn": "Amazon",
-  "lien": "https://www.amazon.com/YZXODN-Pack-Stretchy-Strings-Fidget/dp/B0D5M4BF52/ref=sr_1_5?sr=8-5",
-  "img": "https://m.media-amazon.com/images/I/9117sHIDSWL._AC_SX679_.jpg"
+  "desc": "Chaîne cubaine inox waterproof, anti-ternissement, unisexe : 3 largeurs (3 à 9 mm), 4 longueurs (45 à 70 cm), finitions argent, doré ou noir.",
+  "fourn": "AliExpress",
+  "lien": "https://www.aliexpress.us/item/3256808617933728.html",
+  "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sb2f8e57337f04b9eabe9a8de08a6304dT.jpg",
+  "priceUsd": "1,35 $",
+  "pop": 0
  },
  {
   "id": "micro-gaming-rgb-maono",
