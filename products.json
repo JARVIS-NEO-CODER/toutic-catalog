@@ -726,5 +726,44 @@
   "lien": "https://www.templatables.com/products/2026-digital-planner-mono-landscape",
   "img": "https://cdn.shopify.com/s/files/1/0562/7386/2817/files/12_816bf508-cd38-4e8c-b6ef-87b8805b46bc.jpg",
   "priceUsd": "6,00 $"
+ },
+ {
+  "id": "projecteur-galaxie-nebula",
+  "name": "Projecteur galaxie nébuleuse : ciel étoilé LED + télécommande",
+  "type": "physical",
+  "cat": "Tech",
+  "price": "36,79 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Transforme ta chambre en ciel étoilé : nébuleuse colorée, rotation, minuterie et télécommande. 99 avis vérifiés, 4,9/5.",
+  "fourn": "Shopmyzo",
+  "lien": "https://shopmyzo.com/products/galaxy-star-projector-night-light",
+  "img": "https://cdn.shopify.com/s/files/1/0816/7171/7081/files/094577ac4410ba92d43c5c2d0bd6.webp",
+  "priceUsd": "39,99 $"
+ },
+ {
+  "id": "lunettes-y2k-argent",
+  "name": "Lunettes Y2K rétro argentées, look futuriste",
+  "type": "physical",
+  "cat": "Mode",
+  "price": "16,55 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Monture métallique argentée style Y2K, l'accessoire viral du moment. Plusieurs teintes de verres. 115 avis vérifiés, 4,4/5.",
+  "fourn": "SmartPicksWorld",
+  "lien": "https://smartpicksworld.com/products/y2k-silver-retro-sunglasses",
+  "img": "https://cdn.shopify.com/s/files/1/0982/6929/9015/files/S246cb574d7d14407b73040c8216e71f8j.webp",
+  "priceUsd": "17,99 $"
+ },
+ {
+  "id": "lampe-lune-levitante",
+  "name": "Lampe lune lévitante 3D avec charge sans fil et lueur RGB",
+  "type": "physical",
+  "cat": "Déco",
+  "price": "50,58 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Une lune 3D qui flotte au-dessus de sa base par lévitation magnétique, avec lueur RGB et charge sans fil intégrée. 71 avis vérifiés, 4,5/5.",
+  "fourn": "Gear Elevation",
+  "lien": "https://www.gearelevation.com/products/levitating-moon-lamp-3d-floating-led-light-with-wireless-charging-rgb-glow",
+  "img": "https://cdn.shopify.com/s/files/1/0008/5894/7642/files/00_black_wireless_hero.jpg",
+  "priceUsd": "54,99 $"
  }
 ]
