@@ -1025,5 +1025,17 @@
   "lien": "https://www.templatables.com/products/digital-self-care-planner",
   "img": "https://cdn.shopify.com/s/files/1/0562/7386/2817/files/51_08120079-7231-4e7e-a76c-a326663f411f.jpg",
   "priceUsd": "4,00 $"
+ },
+ {
+  "id": "bracelet-a-tete-de-dinosaure",
+  "name": "Bracelet a tête de dinosaure",
+  "type": "physical",
+  "cat": "Déco",
+  "price": "11.99",
+  "status": "Expédié par le fournisseur",
+  "desc": "30 jouets anti-stress en forme d'animaux (3 modèles, couleurs vives, caoutchouc non toxique, ~20 cm), souples et élastiques. Ils apaisent le stress, favorisent la concentration, la motricité fine et l'attention — utiles notamment pour les enfants TDA ou autistes. Idéaux en cadeau (Noël, anniversaire, fête) ou comme récompense en classe. ⁠",
+  "fourn": "Amazon",
+  "lien": "https://www.amazon.com/YZXODN-Pack-Stretchy-Strings-Fidget/dp/B0D5M4BF52/ref=sr_1_5?sr=8-5",
+  "img": "https://m.media-amazon.com/images/I/9117sHIDSWL._AC_SX679_.jpg"
  }
 ]
