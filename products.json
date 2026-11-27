@@ -1093,5 +1093,44 @@
   "lien": "https://www.aliexpress.us/item/3256809392542126.html",
   "img": "https://cdn.shopify.com/s/files/1/0506/5893/4942/files/55_1eaeca45-d7fa-4c42-bd04-6f14f415f622.png",
   "priceUsd": "12,23 $"
+ },
+ {
+  "id": "imprimante-thermique-poche",
+  "name": "Imprimante thermique de poche : photos et stickers sans encre",
+  "type": "physical",
+  "cat": "Tech",
+  "price": "21,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Imprimante mini Bluetooth qui imprime photos, notes et stickers depuis ton téléphone, sans encre ni recharge. Le gadget viral des lycéens. 100 avis vérifiés, 4,8/5.",
+  "fourn": "Search Discount World",
+  "lien": "https://shop.searchdiscount.world/products/pocketprint-mini-thermal-printer",
+  "img": "https://cdn.shopify.com/s/files/1/0801/4361/4182/files/01_hero_567a07b5-1f32-4119-bd6d-cb54ed326981.jpg",
+  "priceUsd": "14,99 $"
+ },
+ {
+  "id": "bandeau-ecouteurs-sommeil",
+  "name": "Bandeau écouteurs de sommeil sans fil, anti-insomnie",
+  "type": "physical",
+  "cat": "Tech",
+  "price": "37,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Un bandeau doux avec haut-parleurs intégrés pour écouter musique ou podcast allongé sans avoir des écouteurs dans les oreilles. Fonctionne aussi pour le sport. 196 avis vérifiés, 4,6/5.",
+  "fourn": "Gear Elevation",
+  "lien": "https://www.gearelevation.com/products/wireless-sleeping-headphones-sports-headband",
+  "img": "https://cdn.shopify.com/s/files/1/0008/5894/7642/products/2-in-1-wireless-sleeping-headphones-sports-headband-726781.jpg",
+  "priceUsd": "25,99 $"
+ },
+ {
+  "id": "manette-telescopique-gamesir",
+  "name": "Manette télescopique GameSir X5s pour gaming mobile",
+  "type": "physical",
+  "cat": "Gaming",
+  "price": "62,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Manette sans fil qui s'étire autour de ton téléphone : joystick, gâchettes et boutons pour jouer comme sur console, Android et iOS. Marque GameSir.",
+  "fourn": "MiOT Store",
+  "lien": "https://miot-store.com/products/gamesir-x5s-wireless-telescopic-mobile-gaming-controllerblack",
+  "img": "https://cdn.shopify.com/s/files/1/0735/6170/2707/files/EDA010057801B.jpg",
+  "priceUsd": "42,48 $"
  }
 ]
