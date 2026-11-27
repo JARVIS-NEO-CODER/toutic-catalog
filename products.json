@@ -1132,5 +1132,44 @@
   "lien": "https://miot-store.com/products/gamesir-x5s-wireless-telescopic-mobile-gaming-controllerblack",
   "img": "https://cdn.shopify.com/s/files/1/0735/6170/2707/files/EDA010057801B.jpg",
   "priceUsd": "42,48 $"
+ },
+ {
+  "id": "balaclava-beanie-techwear",
+  "name": "Balaclava beanie techwear « Nexa », tricot intégral",
+  "type": "physical",
+  "cat": "Mode",
+  "price": "51,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Bonnet-balaclava tricoté qui couvre tout le visage, look techwear/post-apo. Style viral sur TikTok. Taille unique, noir.",
+  "fourn": "Techwear Storm",
+  "lien": "https://techwearstorm.com/products/balaclava-beanie-nexa",
+  "img": "https://cdn.shopify.com/s/files/1/0656/6631/8569/files/balaclava-beanie-nexa-black-techwear-storm-790.jpg",
+  "priceUsd": "35,00 $"
+ },
+ {
+  "id": "pack-presets-lightroom-earthy",
+  "name": "Pack presets Lightroom « Earthy Moods » : mobile et desktop",
+  "type": "digital",
+  "cat": "Digital & Créa",
+  "price": "15,99 €",
+  "status": "Téléchargement immédiat",
+  "desc": "Collection de filtres photo tonalité chaude et naturelle pour transformer tes photos en un clic, compatible mobile et desktop. 14 avis vérifiés, 4,9/5.",
+  "fourn": "Nord Studios",
+  "lien": "https://nordstudios.co.uk/products/earthy-moods-lightroom-presets-pack-mobile-desktop",
+  "img": "https://cdn.shopify.com/s/files/1/0633/6420/2716/files/thumbearthywebsite.jpg",
+  "priceUsd": "17,00 $"
+ },
+ {
+  "id": "reveil-led-miroir",
+  "name": "Réveil LED écran miroir : alarme, température, snooze",
+  "type": "physical",
+  "cat": "Tech",
+  "price": "20,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Réveil numérique avec grand écran LED courbé effet miroir : heure, température, alarme avec snooze, USB ou piles. 57 avis vérifiés, 4,8/5.",
+  "fourn": "Core Reforme",
+  "lien": "https://corereforme.store/products/curved-led-digital-alarm-clock-with-mirror-display-and-large-screen",
+  "img": "https://cdn.shopify.com/s/files/1/0849/3056/0220/files/D11_13aae46d-180c-4c4b-8ebd-add9b3281c4e.jpg",
+  "priceUsd": "14,24 $"
  }
 ]
