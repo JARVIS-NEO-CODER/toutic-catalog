@@ -1171,5 +1171,44 @@
   "lien": "https://corereforme.store/products/curved-led-digital-alarm-clock-with-mirror-display-and-large-screen",
   "img": "https://cdn.shopify.com/s/files/1/0849/3056/0220/files/D11_13aae46d-180c-4c4b-8ebd-add9b3281c4e.jpg",
   "priceUsd": "14,24 $"
+ },
+ {
+  "id": "casque-gaming-redragon-h510",
+  "name": "Casque gaming Redragon Zeus-X H510 : sans fil, RGB, 7.1",
+  "type": "physical",
+  "cat": "Gaming",
+  "price": "102,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Casque sans fil 3 modes avec son surround 7.1, drivers 53 mm, éclairage RGB et micro anti-bruit, multi-plateformes. Marque Redragon, 104 avis vérifiés, 4,6/5.",
+  "fourn": "Redragon",
+  "lien": "https://redragonshop.com/products/h510-zeus-wireless-gaming-headset",
+  "img": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH510PRO3-ModeRGBGamingHeadset_1.png",
+  "priceUsd": "69,99 $"
+ },
+ {
+  "id": "projecteur-mini-hy300",
+  "name": "Mini projecteur HY300 Pro : Android, Wi-Fi, gaming ready",
+  "type": "physical",
+  "cat": "Tech",
+  "price": "78,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "Projecteur portable qui transforme ton mur en écran géant : Android 14, Wi-Fi, 260 ANSI lumens, prêt pour le gaming. 16 avis vérifiés, 4,7/5.",
+  "fourn": "AntonioMCstudio",
+  "lien": "https://antoniomcstudio.com/products/magcubic-mini-hd-projector-compact-home-theatre-gaming-ready",
+  "img": "https://cdn.shopify.com/s/files/1/0901/9926/1511/files/no_change_10.jpg",
+  "priceUsd": "54,00 $"
+ },
+ {
+  "id": "montre-casio-la670w",
+  "name": "Montre Casio LA670W : le classique rétro digital",
+  "type": "physical",
+  "cat": "Mode",
+  "price": "58,99 €",
+  "status": "Expédié par le fournisseur",
+  "desc": "La montre digitale vintage iconique, bracelet acier, look Y2K intemporel. Vendue par le MoMA Design Store de New York.",
+  "fourn": "MoMA Design Store",
+  "lien": "https://store.moma.org/products/casio-la670w-1-digital-watch",
+  "img": "https://cdn.shopify.com/s/files/1/0623/7962/2630/files/0d30a96c-510d-4e1d-873c-30d60dd59dff.jpg",
+  "priceUsd": "40,00 $"
  }
 ]
